@@ -22,7 +22,7 @@ Image
 
 
 Conclusion
-I am having fun doing the led I finished the led. Cant wait to do hello functions.
+I am having fun doing the led I finished the led. Cant wait to do hello functions. I am finished with the Led blink revisted it took me a minute because I forgot how I dud it last year but I finshed it.
 
 
 
