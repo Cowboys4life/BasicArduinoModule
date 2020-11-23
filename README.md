@@ -26,7 +26,21 @@ I am having fun doing the led I finished the led. Cant wait to do hello function
 
 
 
+Mr.Dierolf LED blink revisited
+Blinks and Led
+November 23 2020
 
+void setup() {
+int PINNo = 5;
+void setup() {
+  pinMode(PINNo, OUTPUT);
+}
+void loop() {
+  digitalWrite(PINNo, HIGH);
+  delay(2000);
+  digitalWrite(PINNo, LOW);
+  delay(2000);
+}
 
 
 
