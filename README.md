@@ -5,7 +5,7 @@ LED Blink Revisted
 
 
 descrpition
-I did the coding right but it is blinking  turing on. I don't know if i did it wrong I am having fun though I love coding. I got my kit yesterday so I haven't made alot of progress but it is gettting there. I hope I can be able to start the hello functions next week.
+I did the coding right but it is blinking  turing on. I don't know if i did it wrong I am having fun though I love coding. I got my kit yesterday so I haven't made alot of progress but it is gettting there. I hope I can be able to start the hello functions next week. I finally finshed
 
 
 Edvidence
