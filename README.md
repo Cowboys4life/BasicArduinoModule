@@ -38,9 +38,11 @@ void setup() {
 void loop() {
   digitalWrite(PINNo, HIGH);
   delay(2000);
-  digitalWrite(PINNo, LOW);
-  delay(2000);
 }
+
+
+
+
 
 
 
