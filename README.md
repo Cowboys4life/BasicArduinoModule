@@ -41,3 +41,12 @@ https://create.arduino.cc/editor/ncasare49/4e1bf702-6c28-4bcc-a305-33e43217afda
 
 Image
 
+
+
+<img src="Finite Led.png" width="300">
+
+
+
+
+Conclusion
+It was very fun to code the finite Led and see it blink. I was so proud that I was getting used to Arduino. I cannot wait to do other arduino assignmnets in the future.
