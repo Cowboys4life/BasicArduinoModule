@@ -5,7 +5,7 @@ LED Blink Revisted
 
 
 descrpition
-I did the coding right but it is blinking  turing on. I don't know if i did it wrong I am having fun though I love coding. I got my kit yesterday so I haven't made alot of progress but it is gettting there. I hope I can be able to start the hello functions next week. I finally finshed
+I finish the coding and the wiring on the breadboard.  I am having fun though I love coding. I got my kit yesterday so I haven't made alot of progress but it is gettting there. I hope I can be able to start the hello functions next week. I finally finshed
 
 
 Edvidence
@@ -22,29 +22,22 @@ Image
 
 
 Conclusion
-I am having fun doing the led I finished the led. Cant wait to do hello functions. I am finished with the Led blink revisted it took me a minute because I forgot how I dud it last year but I finshed it.
-
-
-
-Mr.Dierolf LED blink revisited
-Blinks and Led
-November 23 2020
-
-void setup() {
-int PINNo = 5;
-void setup() {
-  pinMode(PINNo, OUTPUT);
-}
-void loop() {
-  digitalWrite(PINNo, HIGH);
-  delay(2000);
-}
+I am having fun doing the led I finished the led. Cant wait to do hello functions. I am finished with the Led blink revisted it took me a minute because I forgot how I did it last year but I finshed it.
 
 
 
 
+Finite Led
+
+
+decription
+It was very fun to do finite Led. I was getting used to ardunio. I was not struggling because I already did Led revisited. It was very fun to code in arduino. I followed the steps and finished the finite led .
 
 
 
+Edvidence
+https://create.arduino.cc/editor/ncasare49/4e1bf702-6c28-4bcc-a305-33e43217afda
 
+
+Image
 
