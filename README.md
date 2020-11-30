@@ -15,7 +15,7 @@ https://create.arduino.cc/editor/ncasare49/a0df575c-95be-4803-8dca-e0448c32488e
 
 Image
 
-<img src="Images/Ledblinkrevisited.png" width="300">
+<img src="Ledblinkrevisited.png" width="300">
 
 
 
