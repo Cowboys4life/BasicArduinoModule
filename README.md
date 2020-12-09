@@ -50,3 +50,32 @@ Image
 
 Conclusion
 It was very fun to code the finite Led and see it blink. I was so proud that I was getting used to Arduino. I cannot wait to do other arduino assignmnets in the future.
+
+
+
+
+
+Hello Functions
+
+
+
+description
+It was very hard to do Hello functions I nedded a lot of help throught this assignment. It was really fun because it was challenging to do. It took time but I got it done
+
+
+Edvidence
+
+https://create.arduino.cc/editor/ncasare49/fcb56d5a-1204-43ce-ab42-04beff2a3d84
+
+
+
+
+Image
+
+
+
+
+
+Conclusion
+It was very fun and challenging to do Hello function. I cannot wait to do new ping I hope it will be fun and challenging because I love challenges.
+
