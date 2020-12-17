@@ -79,3 +79,28 @@ Image
 Conclusion
 It was very fun and challenging to do Hello function. I cannot wait to do new ping I hope it will be fun and challenging because I love challenges.
 
+New Ping
+
+description
+I really had fun coding new ping. It was very difficult at first than I got the hang of it. I love every challenging assignment makes me better everyday. It make me a better engineer. I really had so much fun with this.
+
+
+
+
+Edvidence
+
+https://create.arduino.cc/editor/ncasare49/86c2352c-535b-4b40-adbe-4b193a7796db
+
+
+Image
+
+
+
+
+
+Conclusion
+I really had fun doing new ping. It was very challenging and that is what fun about engeneering. I cannot wait to do phot resistor.
+
+
+
+
