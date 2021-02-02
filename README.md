@@ -43,7 +43,7 @@ Image
 
 
 
-<img src="Finite Led.png" width="300">
+<img src="Led Blinker.png" width="300">
 
 
 
